@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Sweepstakes
 {
-    class SweepstakesStackManager
-    {
-    }
+    //public class SweepstakesStackManager : ISweepstakesManager
+    //{
+    //    Stack<Sweepstakes> stackSweepstakes = new Stack<Sweepstakes>(); 
+    //    public void InsertSweepstakes(Sweepstakes sweepstakes);
+
+    //    Sweepstakes GetSweepstakes();
+    //}
 }
